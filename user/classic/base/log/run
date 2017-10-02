@@ -2,5 +2,5 @@
 fdmove -c 2 1
 importas -i USER USER
 exec -c 
-s6-log n3 t s1000000 /home/${USER}/service/log/s6rc/base
+s6-log n3 t s1000000 /home/${USER}/service/log/s6serv/base
 
